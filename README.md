@@ -23,13 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-mobile.png)
 ![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [ Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/migudebe/single-price-grid)
+- Live Site URL: [GitHub Pages](https://migudebe.github.io/single-price-grid/)
 
 ## My process
 
