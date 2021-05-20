@@ -1,0 +1,27 @@
+.main-block {
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border-radius: 5px;
+}
+.secondary-block {
+  display: flex;
+  width: 600px;
+}
+
+.first-block h2 {
+  font-size: 1.6rem;
+}
+.first-block p {
+  padding-right: 70px;
+  font-size: 1.4rem;
+}
+
+.second-block {
+  border-radius: 0 0 0 10px;
+}
+.third-block {
+  border-radius: 0 0 10px 0;
+}
